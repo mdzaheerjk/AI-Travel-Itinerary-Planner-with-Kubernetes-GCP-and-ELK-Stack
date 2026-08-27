@@ -4,7 +4,7 @@ An AI-powered travel itinerary planner web app uses LLMs and real-time search to
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Untitled_design_25.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Untitled_design_25.png"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ An AI-powered travel itinerary planner web app uses LLMs and real-time search to
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/AItravelplannerWorkflow_-_Copy.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/AItravelplannerWorkflow_-_Copy.png"
        alt="System Architecture"
        width="600" />
 </p>
